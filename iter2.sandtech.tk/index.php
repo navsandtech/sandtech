@@ -30,7 +30,6 @@
 </head>
 
 <body>
-
   <!-- PHP Script for database connection and getting data -->
   <?php
 $servername = "pdb28.awardspace.net";
